@@ -1,6 +1,6 @@
 <h1 align="center">Server NLW IA</h1>
 
-O servidor da NLW SpaceTime foi desenvolvido durante o evento da Rocketseat no período dos dias 11 a 15 de setembro de 2023. A ideia da aplicação é focado na utilização da inteligência artificial da OpenAI, onde poderemos enviar um vídeo e pedir para a IA descrever algum prompt que pode ser um título ou uma descrição para um vídeo do Youtube.
+O servidor da NLW IA foi desenvolvido durante o evento da Rocketseat no período dos dias 11 a 15 de setembro de 2023. A ideia da aplicação é focado na utilização da inteligência artificial da OpenAI, onde poderemos enviar um vídeo e pedir para a IA descrever algum prompt que pode ser um título ou uma descrição para um vídeo do Youtube.
 
 <br/>
 
